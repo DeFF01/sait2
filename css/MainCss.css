@@ -160,8 +160,7 @@ margin-left: 192px;
 }
 .our_story_png {
 	margin-bottom: 25px;
-	width: 270px;
-	height: 65px;
+	
 	border-radius: 10px;
 	background-color: #c62314;
 	display: flex;
@@ -172,6 +171,7 @@ margin-left: 192px;
 .our_story_png a{
 	color: #ffff;
 	font-size: 18px;
+	padding:18px 75px;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-family: Montserrat-regular;
